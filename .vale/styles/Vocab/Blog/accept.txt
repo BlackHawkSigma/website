@@ -20,9 +20,13 @@ tuvalSimha
 Spotify
 topTracks
 openapi
+OpenAPI
 api
+API
 TuvalSimha
 time_range
 short_term
 async
 spotify
+fets
+feTS
